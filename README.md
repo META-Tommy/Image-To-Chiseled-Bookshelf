@@ -61,6 +61,8 @@ Put `Chiseled_Bookshelf_Data.txt` inside `.minecraft\saves\YOUR_WORLD\scripts\sh
 # Don't forget the resource pack!
 Download the resource pack and load it into your game!
 
+Disable Redstone Particles in Video Settings → Animations... → Redstone Animated: OFF
+
 If the resource pack doesn't look correct in game, you might need to install [optifine](https://optifine.net/downloads)/[optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) or some equivalent
 # How do I use scarpet
 Download and place `Chiseled_Bookshelf.sc` in `.minecraft\saves\YOUR_WORLD\scripts`
