@@ -2,7 +2,7 @@
 Convert an image to a chiseled bookshelf in Minecraft: Java Edition!
 
 ![Larcei](https://guide.fire-emblem-heroes.com/wp-content/uploads/larcei_keen_kin.png)![Larcei in Bookshelf Forme](https://i.imgur.com/YaGLB1G.png)
-# What third part items do I need to use this?
+# What third party items do I need to use this?
 Java, Minecraft: Java Edition, [Fabric](https://fabricmc.net/), and [Carpet mod](https://www.curseforge.com/minecraft/mc-mods/carpet)
 
 If the resource pack doesn't work, you might also need [optifine](https://optifine.net/downloads)/[optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) or some equivalent
