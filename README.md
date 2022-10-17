@@ -65,11 +65,13 @@ If the resource pack doesn't look correct in game, you might need to install [op
 # How do I use scarpet
 Download and place `Chiseled_Bookshelf.sc` in `.minecraft\saves\YOUR_WORLD\scripts`
 
-Open the your minecraft world and run the command `/script run Chiseled_Bookshelf(x,y,z)`, where x, y, and z are the bottom left corner of the bookshelf you want to build
+Open the your minecraft world and run the command `/script load chiseled_bookshelf`
+
+Now you can run `/chiseled_bookshelf build x y z`, where x, y, and z are the bottom left corner of the bookshelf you want to build
 
 If the `/script` command doesn't exist, you don't have [Carpet mod](https://www.curseforge.com/minecraft/mc-mods/carpet)
 
-If the `Chiseled_Bookshelf(x,y,z)` script doesn't exist, you didn't put `Chiseled_Bookshelf.sc`  in the right location
+If the `chiseled_bookshelf` script doesn't exist, you didn't put `Chiseled_Bookshelf.sc`  in the right location
 
 This command will destroy any blocks that are in the way, so make sure you have a world backup incase a giant bookshelf bursts through your roof!
 # Useful tips
